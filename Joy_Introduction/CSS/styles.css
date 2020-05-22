@@ -1,0 +1,21 @@
+body{
+  background-color: cornsilk;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  width: 5%;
+}
+h1{
+  color: #66BFBF;
+}
+h2{
+  color: maroon;
+}
+img:hover {
+  border-radius: 100%;
+  background-color: red;
+
+}
